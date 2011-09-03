@@ -2,6 +2,6 @@ LIB=	ifplus
 
 SRCS+=	ifname2dev.c
 
-#MAN=
+INCS+=	libifplus.h
 
-.include "${.CURDIR}/../../mk/bsdplus.lib.mk"
+.include <bsd.lib.mk>
