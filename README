@@ -1,0 +1,13 @@
+BSD+ is a set of library and utility additions intended for BSD-like systems,
+particularly FreeBSD, implemented in the spirit of BSD.
+
+It is hoped that it will serve as a useful incubator for useful utilities and
+APIs and help drive BSD innovation.  Hobbyist participation is
+strongly-encouraged and while it is curated slightly for quality and
+appropriateness, the goal is to include tools from a variety of sources and for
+numerous purposes.  From system administration helpers to text processors and
+some light niche-specific tools and libraries.
+
+Where appropriate, it is hoped that mature and generally-useful or
+particularly-innovative tools will be merged into the base system of BSD-like
+operating system projects.
