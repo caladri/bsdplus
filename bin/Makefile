@@ -1,3 +1,3 @@
-SUBDIR+=bin
+SUBDIR+=diff-filter
 
 .include <bsd.subdir.mk>

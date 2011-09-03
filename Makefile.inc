@@ -1,0 +1,2 @@
+WARNS?=		6
+WFORMAT?=	1
